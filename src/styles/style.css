@@ -1,0 +1,7 @@
+@media screen and (max-width: 450px) {
+  .primary {
+    display: -ms-grid;
+    display: grid;
+  }
+}
+/*# sourceMappingURL=style.css.map */
